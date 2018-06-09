@@ -1,0 +1,9 @@
+D:\Codes\Learning.NetCore\序列化与反序列化\Class4Test\bin\Debug\netcoreapp2.0\Class4Test.deps.json
+D:\Codes\Learning.NetCore\序列化与反序列化\Class4Test\bin\Debug\netcoreapp2.0\Class4Test.dll
+D:\Codes\Learning.NetCore\序列化与反序列化\Class4Test\bin\Debug\netcoreapp2.0\Class4Test.pdb
+D:\Codes\Learning.NetCore\序列化与反序列化\Class4Test\obj\Debug\netcoreapp2.0\Class4Test.csproj.CoreCompileInputs.cache
+D:\Codes\Learning.NetCore\序列化与反序列化\Class4Test\obj\Debug\netcoreapp2.0\Class4Test.AssemblyInfoInputs.cache
+D:\Codes\Learning.NetCore\序列化与反序列化\Class4Test\obj\Debug\netcoreapp2.0\Class4Test.AssemblyInfo.cs
+D:\Codes\Learning.NetCore\序列化与反序列化\Class4Test\obj\Debug\netcoreapp2.0\Class4Test.dll
+D:\Codes\Learning.NetCore\序列化与反序列化\Class4Test\obj\Debug\netcoreapp2.0\Class4Test.pdb
+D:\Codes\Learning.NetCore\序列化与反序列化\Class4Test\obj\Debug\netcoreapp2.0\Class4Test.csprojResolveAssemblyReference.cache

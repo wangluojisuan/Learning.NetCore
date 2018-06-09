@@ -1,0 +1,13 @@
+D:\Codes\Learning.NetCore\序列化与反序列化\序列化与反序列化\bin\Debug\netcoreapp2.0\序列化与反序列化.deps.json
+D:\Codes\Learning.NetCore\序列化与反序列化\序列化与反序列化\bin\Debug\netcoreapp2.0\序列化与反序列化.runtimeconfig.json
+D:\Codes\Learning.NetCore\序列化与反序列化\序列化与反序列化\bin\Debug\netcoreapp2.0\序列化与反序列化.runtimeconfig.dev.json
+D:\Codes\Learning.NetCore\序列化与反序列化\序列化与反序列化\bin\Debug\netcoreapp2.0\序列化与反序列化.dll
+D:\Codes\Learning.NetCore\序列化与反序列化\序列化与反序列化\bin\Debug\netcoreapp2.0\序列化与反序列化.pdb
+D:\Codes\Learning.NetCore\序列化与反序列化\序列化与反序列化\obj\Debug\netcoreapp2.0\序列化与反序列化.csprojResolveAssemblyReference.cache
+D:\Codes\Learning.NetCore\序列化与反序列化\序列化与反序列化\obj\Debug\netcoreapp2.0\序列化与反序列化.csproj.CoreCompileInputs.cache
+D:\Codes\Learning.NetCore\序列化与反序列化\序列化与反序列化\obj\Debug\netcoreapp2.0\序列化与反序列化.AssemblyInfoInputs.cache
+D:\Codes\Learning.NetCore\序列化与反序列化\序列化与反序列化\obj\Debug\netcoreapp2.0\序列化与反序列化.AssemblyInfo.cs
+D:\Codes\Learning.NetCore\序列化与反序列化\序列化与反序列化\obj\Debug\netcoreapp2.0\序列化与反序列化.dll
+D:\Codes\Learning.NetCore\序列化与反序列化\序列化与反序列化\obj\Debug\netcoreapp2.0\序列化与反序列化.pdb
+D:\Codes\Learning.NetCore\序列化与反序列化\序列化与反序列化\bin\Debug\netcoreapp2.0\Class4Test.dll
+D:\Codes\Learning.NetCore\序列化与反序列化\序列化与反序列化\bin\Debug\netcoreapp2.0\Class4Test.pdb
